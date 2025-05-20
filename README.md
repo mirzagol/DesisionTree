@@ -18,7 +18,8 @@ A hands-on, educational implementation of a Decision Tree classifier in Python, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/decision-tree-classifier.git```
+git clone https://github.com/your-username/decision-tree-classifier.git
+```
 
 Navigate to the project directory:
 
