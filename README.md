@@ -1,4 +1,8 @@
-# 🌳 Decision Tree Classifier
+# 🌳 Decision Tree Classifier from Scratch
+
+A hands-on, educational implementation of a Decision Tree classifier in Python, built and visualized step-by-step in a Jupyter Notebook.
+
+---
 
 ## 📋 Overview
 
@@ -14,4 +18,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/decision-tree-classifier.git
+git clone https://github.com/your-username/decision-tree-classifier.git```
+
+Navigate to the project directory:
+
