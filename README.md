@@ -61,9 +61,9 @@ Or open DesisionTree.ipynb in VS Code.
 - **Cross-Validation:** Ensures the model generalizes well to unseen data.
 
 # 🧩 Example: Gini vs. Entropy
-**Gini Index:** Favors larger partitions and is faster to compute.
-**Entropy:** More sensitive to class imbalance, can lead to different splits.
-**Try Both:** Experiment with both criteria to see their effect on accuracy and tree structure.
+- **Gini Index:** Favors larger partitions and is faster to compute.
+- **Entropy:** More sensitive to class imbalance, can lead to different splits.
+- **Try Both:** Experiment with both criteria to see their effect on accuracy and tree structure.
 
 # 👨‍💻 Contributing
 Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
